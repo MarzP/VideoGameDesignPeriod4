@@ -24,14 +24,6 @@
       <sprite>sprites\spr_player_dead</sprite>
     </sprites>
     <sprite>sprites\sprite15</sprite>
-    <sprites name="Greg">
-      <sprite>sprites\spr_fonzo</sprite>
-      <sprite>sprites\spr_fonzo_side</sprite>
-      <sprite>sprites\spr_fonzo_back</sprite>
-      <sprite>sprites\spr_fonzo_walkside</sprite>
-      <sprite>sprites\spr_fonzo_walkup</sprite>
-      <sprite>sprites\spr_fonzo_walkdown</sprite>
-    </sprites>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -39,24 +31,18 @@
     <script>scripts\scr_part_contact_init.gml</script>
   </scripts>
   <objects name="objects">
-    <objects name="Greg">
-      <object>objects\obj_fonzo</object>
-    </objects>
-    <objects name="Marz">
-      <object>objects\obj_wizard</object>
-      <object>objects\obj_magic</object>
-      <object>objects\obj_ps</object>
-      <object>objects\obj_player</object>
-    </objects>
+    <object>objects\obj_wizard</object>
+    <object>objects\obj_magic</object>
+    <object>objects\obj_player</object>
+    <object>objects\obj_ps</object>
     <object>objects\object4</object>
-    <object>objects\object11</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
     <room>rooms\room1</room>
   </rooms>
   <constants number="2">
-    <constant name="GM_build_date">42040.7830964931</constant>
+    <constant name="GM_build_date">41983.7654757523</constant>
     <constant name="GM_version">'1.0.0.0'</constant>
   </constants>
   <help>
