@@ -35,6 +35,7 @@
     </sprites>
     <sprite>sprites\sprite15</sprite>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <sprites name="Greg">
       <sprite>sprites\spr_fonzo</sprite>
       <sprite>sprites\spr_fonzo_side</sprite>
@@ -42,6 +43,17 @@
       <sprite>sprites\spr_fonzo_walkside</sprite>
       <sprite>sprites\spr_fonzo_walkup</sprite>
       <sprite>sprites\spr_fonzo_walkdown</sprite>
+=======
+    <sprites name="lorenzo">
+      <sprite>sprites\spr_beatboystandfront</sprite>
+      <sprite>sprites\spr_beatboystandright</sprite>
+      <sprite>sprites\spr_beatboystandleft</sprite>
+      <sprite>sprites\spr_beatboystandback</sprite>
+      <sprite>sprites\spr_beatboywalkfront</sprite>
+      <sprite>sprites\spr_beatboywalkright</sprite>
+      <sprite>sprites\spr_beatboywalkleft</sprite>
+      <sprite>sprites\spr_beatboywalkback</sprite>
+>>>>>>> 419609b28167fcaaa0073f5af5b779a0aaa20a11
     </sprites>
 =======
     <sprite>sprites\sprite16</sprite>
@@ -65,14 +77,22 @@
       <object>objects\obj_player</object>
     </objects>
     <object>objects\object4</object>
+<<<<<<< HEAD
     <object>objects\object11</object>
+=======
+    <object>objects\beatboy</object>
+>>>>>>> 419609b28167fcaaa0073f5af5b779a0aaa20a11
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
     <room>rooms\room1</room>
   </rooms>
   <constants number="2">
+<<<<<<< HEAD
     <constant name="GM_build_date">42040.7830964931</constant>
+=======
+    <constant name="GM_build_date">42040.82601375</constant>
+>>>>>>> 419609b28167fcaaa0073f5af5b779a0aaa20a11
     <constant name="GM_version">'1.0.0.0'</constant>
   </constants>
   <help>
