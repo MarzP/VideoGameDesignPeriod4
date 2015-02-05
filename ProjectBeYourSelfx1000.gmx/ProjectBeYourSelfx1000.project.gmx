@@ -6,6 +6,16 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
+    <sprites name="Christian">
+      <sprite>sprites\sp_runner_backface</sprite>
+      <sprite>sprites\sp_runner_frontface</sprite>
+      <sprite>sprites\sp_runner_sideleft</sprite>
+      <sprite>sprites\sp_runner_sideright</sprite>
+      <sprite>sprites\spr_runner_frontwalk1</sprite>
+      <sprite>sprites\sp_runner_frontwalk2</sprite>
+      <sprite>sprites\sp_runner_backwalk1</sprite>
+      <sprite>sprites\sp_runner_backwalk2</sprite>
+    </sprites>
     <sprites name="wizard">
       <sprite>sprites\spr_wizard</sprite>
       <sprite>sprites\spr_wizard_atk</sprite>
@@ -24,6 +34,9 @@
       <sprite>sprites\spr_player_dead</sprite>
     </sprites>
     <sprite>sprites\sprite15</sprite>
+    <sprite>sprites\sprite16</sprite>
+    <sprite>sprites\sprite17</sprite>
+    <sprite>sprites\sprite21</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
