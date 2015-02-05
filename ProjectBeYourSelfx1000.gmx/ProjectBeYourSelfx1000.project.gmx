@@ -24,6 +24,16 @@
       <sprite>sprites\spr_player_dead</sprite>
     </sprites>
     <sprite>sprites\sprite15</sprite>
+    <sprites name="lorenzo">
+      <sprite>sprites\spr_beatboystandfront</sprite>
+      <sprite>sprites\spr_beatboystandright</sprite>
+      <sprite>sprites\spr_beatboystandleft</sprite>
+      <sprite>sprites\spr_beatboystandback</sprite>
+      <sprite>sprites\spr_beatboywalkfront</sprite>
+      <sprite>sprites\spr_beatboywalkright</sprite>
+      <sprite>sprites\spr_beatboywalkleft</sprite>
+      <sprite>sprites\spr_beatboywalkback</sprite>
+    </sprites>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -36,13 +46,14 @@
     <object>objects\obj_player</object>
     <object>objects\obj_ps</object>
     <object>objects\object4</object>
+    <object>objects\beatboy</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
     <room>rooms\room1</room>
   </rooms>
   <constants number="2">
-    <constant name="GM_build_date">41983.7654757523</constant>
+    <constant name="GM_build_date">42040.82601375</constant>
     <constant name="GM_version">'1.0.0.0'</constant>
   </constants>
   <help>
